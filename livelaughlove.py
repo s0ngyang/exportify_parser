@@ -7,10 +7,12 @@ Authored by Kee Song Yang, September 2023
 
 import csv
 
+print("Note: File must be in the same folder as the program")
+
 while True:
     try:
         filename = input(
-            "Note: File must be in the same folder as the program\nEnter file name (without file extension): ")
+            "Enter file name (without file extension): ")
         data = ()
         with open(filename + ".csv", "r", encoding="utf8") as csvfile:
             file_reader = csv.reader(csvfile)
