@@ -1,7 +1,10 @@
-# exportify_parser
+# Exportify Parser
 
-upcoming features:
-multiple usage
+## Usage
 
-known bugs:
-chinese songs causes program to crash
+1. Open terminal
+2. Enter the command `python livelaughlove.py`
+
+## Upcoming Features
+
+- Multiple usage
