@@ -1,8 +1,9 @@
 """
-A simple program to parse an exportify csv file.
+Prints out the list of songs given the name of the CSV file.
 
-Authored by Kee Song Yang, September 2023
+Found a bug or have any suggestions? Feel free to contribute at github.com/s0ngyang/exportify_parser
 
+Authored by Kee Song Yang, RH Unplugged Vice-Head 2023
 """
 
 import csv
@@ -29,5 +30,5 @@ while True:
                 print("• " + name + " - " + artist)
             break
     except FileNotFoundError:
-        print("oi cannot type properly ah, cannot find the file la")
+        print("eh type properly la, cannot find the file")
         continue
