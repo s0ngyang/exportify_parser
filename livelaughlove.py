@@ -30,5 +30,5 @@ while True:
                 print("• " + name + " - " + artist)
             break
     except FileNotFoundError:
-        print("eh type properly la, cannot find the file")
+        print("File not found - check your spelling/file directory")
         continue
