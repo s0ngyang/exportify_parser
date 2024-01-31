@@ -2,8 +2,10 @@
 
 ## Usage
 
-1. Open terminal
-2. Enter the command `python livelaughlove.py`
+1. Download livelaughlove.py directly
+2. Open terminal
+3. Enter the command `python livelaughlove.py`
+4. Follow the instructions 
 
 ## Upcoming Features
 
