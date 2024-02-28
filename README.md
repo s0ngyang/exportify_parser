@@ -29,6 +29,6 @@ The screen if you have python installed (version may differ), otherwise please d
 4. Enter the command `python livelaughlove.py`
    ![enter command](screenshots/enterCommand.png)
 5. Enter the csv file name e.g. `rhf24_b3`
-   ![result](screenshots/reuslt.png)
+   ![result](screenshots/result.png)
 6. Copy the output from the terminal, or open `output.txt` and Ctrl+A then Ctrl+C.
 7. Paste into the band chat and you're done!
