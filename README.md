@@ -10,3 +10,6 @@
 ## Upcoming Features
 
 - Multiple usage
+
+
+Found a bug or have any suggestions? Feel free to contribute by creating a PR :)
