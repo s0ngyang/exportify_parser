@@ -1,5 +1,12 @@
 # Exportify Parser
 
+## Pre-requisite
+
+Have the latest version of [python] installed. 
+
+[python]: https://www.python.org/downloads/
+
+
 ## Usage
 
 1. Download livelaughlove.py directly
