@@ -12,12 +12,11 @@ Have the latest version of [Python] installed.
 
 [python]: https://www.python.org/downloads/
 
-How to check if you have Python?
+* How to check if you have Python?
+   * Open terminal (For windows, Win+R -> Type "cmd" and enter)
+   * Enter the command `python -V`
 
-1. Open terminal (For windows, Win+R -> Type "cmd" and enter)
-2. Enter the command `python -V`
-
-The screen if you have python installed (version may differ), otherwise please download from above.
+* The screen if you have python installed (version may differ), otherwise please download from above.
 ![python version](screenshots/pythonVersion.png)
 
 ## Usage
