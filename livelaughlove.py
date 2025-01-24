@@ -18,8 +18,8 @@ while True:
         with open(filename + ".csv", "r", encoding="utf8") as csvfile:
             file_reader = csv.reader(csvfile)
             for row in file_reader:
-                name = row[2]
-                artist = row[4]
+                name = row[1]
+                artist = row[3]
                 if (name == "Track Name" and artist == "Artist Name(s)"):
                     continue
                 data += ((name, artist),)
