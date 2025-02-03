@@ -1,4 +1,4 @@
-This script is no longer being maintained :" Check out [Exportifellas](https://www.s0ngyang.github.io/exportifellas) instead!
+This script is no longer being maintained :" Check out [Exportifellas](https:/s0ngyang.github.io/exportifellas) instead!
 
 # Exportify Parser
 
